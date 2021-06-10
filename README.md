@@ -10,7 +10,7 @@ Make a survey form using all popular input types:
 - Radio
 - Checkbox
 
-https://ajit-91.github.io/Survey_form/
+https://github.com/Ajit-91/Survey_form
 
 
 
@@ -18,7 +18,7 @@ https://ajit-91.github.io/Survey_form/
 
 Make a landing page with parallax scrolling backgrounds:
 
-https://ajit-91.github.io/Parallax/
+https://github.com/Ajit-91/Parallax
 
 
 
@@ -26,11 +26,11 @@ https://ajit-91.github.io/Parallax/
 
 Build a landing page using grid layout.
 
-https://ajit-91.github.io/Grid-Layout/
+https://github.com/Ajit-91/Grid-Layout
 
 # Task-4
 
 Make a basic calculator using HTML, CSS & Javascript.
 
-https://ajit-91.github.io/Simple-Calculator/
+https://github.com/Ajit-91/Simple-Calculator
 
